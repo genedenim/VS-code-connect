@@ -1,2 +1,2 @@
-# VS-code-connect
+# Connect-VS-to-Github
 Connecting VS code to Github
