@@ -1,2 +1,2 @@
-# Connect-VS-to-Github
-Connecting VS code to Github
+# Admissions Prediction
+## Connect VS code to Github
